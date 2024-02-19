@@ -1,2 +1,2 @@
 # Portafolio
-Mi portafolio
+Mi portafolio en HTML, CSS y Javascript
